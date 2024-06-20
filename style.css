@@ -49,6 +49,7 @@ body{
     border-right: 4px solid var(--botao-ativo);
     border-top: none;
 }
+
 .botao:first-child{
     border-radius: 40px 40px 0 0;
 }
